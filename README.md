@@ -16,5 +16,5 @@ As seen in the project architecture (image_2cae37.png):
 
 1. Clone the repo:
    ```bash
-   https://github.com/Ansh13-06/Adaptive-Noise-Cancellation-LMS-Algorithm
+   https://github.com/Ansh13-06/Adaptive-Noise-Cancellation-LMS-Algorithm.git
    ```
